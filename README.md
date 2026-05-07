@@ -16,12 +16,5 @@ Test your knowledge by answering multiple-choice questions and tracking your sco
 
 
 
-👨‍💻 Author
 
-Nimako Samuel
-Frontend Developer | Learning Backend | Aspiring Full-Stack Engineer
-
-⭐️ Support
-
-If you like this project, give it a ⭐️
 
