@@ -8,12 +8,12 @@ Test your knowledge by answering multiple-choice questions and tracking your sco
 
 
 <p align="center">
-  <img src="images/screen1.png" width="45%" />
-  <img src="images/screen2.png" width="45%" />
+  <img src="images/Screenshot 2026-05-12 003902.png" width="45%" />
+  <img src="images/Screenshot 2026-05-12 003931.png" width="45%" />
 </p>
 
 <p align="center">
-  <img src="images/screen3.png" width="70%" />
+  <img src="images/Screenshot 2026-05-12 004001.png" width="70%" />
 </p>
 
 
